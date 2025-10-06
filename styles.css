@@ -47,6 +47,7 @@ input {
     font-weight: 700;
     color: #555555;
     cursor: pointer;
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.15);
 }
 
 button {
@@ -60,6 +61,7 @@ button {
     font-size: 18px;
     font-weight: 700;
     cursor: pointer;
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.15);
 }
 
 button:hover {
