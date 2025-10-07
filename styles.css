@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: #8A51Fc;
+    background-color: #8A51Fc
 }
 
 .logo {
@@ -23,6 +23,7 @@ main {
     border-radius: 20px;
     margin: 0 auto 40px;
     padding: 44px 24px 23px;
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.15);
 }
 
 label {
@@ -95,7 +96,8 @@ section {
 
 }
 
-.currency-value , .currency-value-to-convert{
+.currency-value,
+.currency-value-to-convert {
     color: #555555;
     font-weight: 700;
     font-size: 20px;
